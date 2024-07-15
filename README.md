@@ -1,4 +1,4 @@
-# Noise_Perturbed_MultiBranch
+# Noise Perturbed MultiBranch Image Classification
 Multi-branch Attention-aided Noise-regulated Network (MAN-Net)
 to address these issues. MAN-Net integrates features from
 diverse depths of a Convolutional Neural Network (CNN)
