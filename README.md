@@ -18,3 +18,5 @@ Independently training secondary branches with noise reg-
 ularization and minimizing weighted cross-entropy (WCE)
 loss relative to ground truth mitigates overfitting and im-
 proves generalization
+
+![Architecrure!](Architecture.png)
